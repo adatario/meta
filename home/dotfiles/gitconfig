@@ -1,0 +1,15 @@
+[user]
+	email = adarsh@tarides.com
+	name = Adarsh Amirtham
+
+[core]
+	excludesfile = ~/.gitignore_global
+	editor = vim
+	quotepath = false
+	commitGraph = true
+
+[pull]
+	ff = only
+
+[init]
+	defaultBranch = main
