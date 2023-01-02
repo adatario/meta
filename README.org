@@ -1,1 +1,9 @@
 #+TITLE: adatario's meta repository
+
+* Home
+
+Configuration of adatario's home using ~guix home~:
+
+#+BEGIN_SRC sh
+  guix home reconfigure home/adatario.scm
+#+END_SRC

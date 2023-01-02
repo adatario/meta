@@ -161,10 +161,10 @@
 
    "o f" 'make-frame
 
-  ;;  "o a" 'org-agenda
-  ;;  "o m" 'mu4e
-  ;;  "o g" 'elpher
-    "o r" 'elfeed))
+   ;; org-roam
+   "n i" 'org-roam-node-insert
+   "n f" 'org-roam-node-find
+   "n c" 'org-roam-capture))
 
 
 ;; Ivy and Counsel
@@ -179,6 +179,13 @@
 
 (use-package counsel
   :demand t)
+
+;; org-roam
+
+(use-package org-roam
+  :config
+  (setq org-roam-directory (file-truename "~/meta/notes"))
+  (org-roam-db-autosync-mode))
 
 ;; backups and autosaves
 

@@ -20,8 +20,6 @@
      "emacs-diminish"
      "emacs-shackle"
 
-     "emacs-doom-themes"
-
      "emacs-writeroom"
 
      "emacs-pdf-tools"
@@ -34,6 +32,8 @@
      "emacs-lispyville"
      "emacs-smartparens"
      "emacs-rainbow-delimiters"
+
+     "emacs-org-roam"
 
      "emacs-ivy"
      "emacs-counsel"
