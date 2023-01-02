@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1ac31f87-773f-4cf7-825a-04d6d7462ddc
+:END:
+#+title: Git
+
+Git is a distributed version control system. It manages a file system tree and keeps past revisions of the tree.

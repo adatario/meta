@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d5f36c6e-2032-4018-8d88-5b4e35b90f41
+:END:
+#+title: OCaml
+
+A programing language, adatario's programing language of choice.

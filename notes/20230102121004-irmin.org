@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       61073a86-5a89-43fa-9abe-96a1a09ddf1a
+:END:
+#+title: Irmin
+
+A [[id:1ac31f87-773f-4cf7-825a-04d6d7462ddc][Git]] inspired database written in [[id:d5f36c6e-2032-4018-8d88-5b4e35b90f41][OCaml]].
