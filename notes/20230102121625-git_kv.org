@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       c2004eb8-da9c-436a-b37d-034b8f87be51
+:END:
+#+title: git-kv
+
+An [[id:d5f36c6e-2032-4018-8d88-5b4e35b90f41][OCaml]] key-value store that can be synchronized with a [[id:1ac31f87-773f-4cf7-825a-04d6d7462ddc][Git]] repository.
+
+This implements the [[id:c5c0281a-88bf-48b8-a41f-a358e6eaae52][mirage-kv]] signatures.
+
+* Versus [[id:61073a86-5a89-43fa-9abe-96a1a09ddf1a][Irmin]] 
+
+~git-kv~ provides a much simpler simple key-value store than [[id:61073a86-5a89-43fa-9abe-96a1a09ddf1a][Irmin]] and many projects seem to be using it instead of [[id:61073a86-5a89-43fa-9abe-96a1a09ddf1a][Irmin]] (see [[https://github.com/mirage/irmin/issues/1081#issuecomment-1365918801][comment in Irmin issue tracker]]).

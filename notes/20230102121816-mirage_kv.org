@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c5c0281a-88bf-48b8-a41f-a358e6eaae52
+:END:
+#+title: mirage-kv
+
+Provides type signatures for a simple key-value store:
+
+#+BEGIN_SRC ocaml
+  val get : t -> key -> (string, error) Stdlib.result Lwt.t
+  val set : t -> key -> string -> (unit, write_error) Stdlib.result Lwt.t
+#+END_SRC
+
+The type signature is implemented by various implementations such as ~mirage-kv-mem~ (in-memory) or ~mirage-kv-unix~ (persisted to Unix file system) or [[id:c2004eb8-da9c-436a-b37d-034b8f87be51][git-kv]].
+
+The interface does not provide a way of doing range queries, it does not seem usable for evaluating complex queries.
+
+* External Links
+
+** [[https://github.com/mirage/mirage-kv][Git repository]]
