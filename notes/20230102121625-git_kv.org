@@ -10,3 +10,7 @@ This implements the [[id:c5c0281a-88bf-48b8-a41f-a358e6eaae52][mirage-kv]] signa
 * Versus [[id:61073a86-5a89-43fa-9abe-96a1a09ddf1a][Irmin]] 
 
 ~git-kv~ provides a much simpler simple key-value store than [[id:61073a86-5a89-43fa-9abe-96a1a09ddf1a][Irmin]] and many projects seem to be using it instead of [[id:61073a86-5a89-43fa-9abe-96a1a09ddf1a][Irmin]] (see [[https://github.com/mirage/irmin/issues/1081#issuecomment-1365918801][comment in Irmin issue tracker]]).
+
+* External Links
+
+** [[https://git.robur.io/robur/git-kv][git-kv]]

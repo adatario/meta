@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       44f18727-1ca6-4f6b-9a88-8926efbecb1e
+:END:
+#+title: Gospel
+
+A behavioural specification language for OCaml allowing formal contracts to be specified for OCaml interfaces and checked.
+
+* External Links
+
+** [[https://github.com/ocaml-gospel/gospel][Git repository]]

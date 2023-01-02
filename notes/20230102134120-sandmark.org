@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       8be4c2be-af04-4320-8aa7-2e0eb4afcf13
+:END:
+#+title: Sandmark
+
+Tools and instrumentation to run OCaml benchmarks (see also [[id:85012293-8110-4c1c-8f35-4a58a9b5e312][Benchmarking]]).
+
+The project itself seems to be about dealing with the complexities of running various variants of software (with various compilers) and visualizing results. It's not primarily a OCaml tool or library.
+
+* External Links
+
+** [[https://github.com/ocaml-bench/sandmark][Git repository]]

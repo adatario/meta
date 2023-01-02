@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       53cd2581-e688-492c-bcbc-830909fbe009
+:ROAM_ALIASES: DO-178C DO-178B
+:END:
+#+title: DO-178C: Software Considerations in Airborne Systems and Equipment Certification
+
+Is a document that describes guidelines for dealing with safety-critical software that is used in certain airborne systems.
+
+The Quality Management of [[id:26fa5e4b-ed86-4d77-bda4-a7213ee931b5][SQLite]] is inspired by this document.
+
+* OCaml
+
+Could such a methodology be applied to OCaml development? What tooling is required? What existing tools could be used (maybe [[id:44f18727-1ca6-4f6b-9a88-8926efbecb1e][Gospel]])?
+
+* External Links
+
+** [[https://en.wikipedia.org/wiki/DO-178C][DO-178C on Wikipedia]]

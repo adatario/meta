@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       26fa5e4b-ed86-4d77-bda4-a7213ee931b5
+:END:
+#+title: SQLite
+
+An embeddable C database that provides an SQL interface.
+
+A.k.a. The database that runs the world.
+
+* Quality Management
+
+The SQLite teams seems to have developed a solid culture on how to produce quality software. They have published a document that describes their Quality Managment: [[https://www.sqlite.org/qmplan.html][Quality Management (at sqlite.org)]]. It is inspired by [[id:53cd2581-e688-492c-bcbc-830909fbe009][DO-178C]].
+
+* External Links
+
+** [[https://sigmodrecord.org/publications/sigmodRecord/1906/pdfs/06_Profiles_Hipp.pdf][Richard Hipp Speaks Out on SQLite]]
+
+Interview with one of the authors of SQLite. Interesting insight into the extensive testing system and quality management.

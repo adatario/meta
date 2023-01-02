@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       f2534433-24b7-4f71-ad90-c5302983d8a5
+:END:
+#+title: Data-oriented Design
+
+A programming approach motivated by efficient usage of Caches.
+
+* External Links
+
+** [[https://en.wikipedia.org/wiki/Data-oriented_design][Data-oriented design on Wikipedia]]
+
+** [[https://media.handmade-seattle.com/practical-data-oriented-design/][A Practical Guide to Applying Data-Oriented Design]]
+
+Talk by Andrew Kelley (author of the Zig programming language) on the topic and how it is used in the development of Zig.

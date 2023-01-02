@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       85012293-8110-4c1c-8f35-4a58a9b5e312
+:END:
+#+title: Benchmarking
+
+The process of recording and analyzing metrics about some piece of software (usually performance related).
+
+* See also
+
+** [[id:8be4c2be-af04-4320-8aa7-2e0eb4afcf13][Sandmark]] 
+
+A tool for running OCaml benchmarks.
+
+** [[id:f2534433-24b7-4f71-ad90-c5302983d8a5][Data-oriented Design]] 
+
+A programming methodology.
+
+* External Links
+
+** TODO [[https://github.com/ocaml-bench/notes/blob/master/apr19.md][Benchmarking the OCaml compiler: what we have learnt and suggestions for the future]]
+
+Notes from the OCaml compiler team on how they have been benchmarking.
+
+** TODO [[https://github.com/ocaml-bench/notes/blob/master/profiling_notes.md][Profiling OCaml code]]
+
+Notes from the OCaml Benchmarking team on how to profile code.
