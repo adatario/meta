@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       dc5ca265-7f35-4acb-bd42-bdda39ebb206
+:END:
+#+title: io_uring
+
+A Linux system call interface for performing asyncronous input/output.
+
+It is used by  

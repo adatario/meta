@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4879c09f-3481-4706-8d96-b6f1f1655cb8
+:END:
+#+title: eio
+
+Effects-based input/output for OCaml.
+
+* External Links
+
+** [[https://github.com/ocaml-multicore/eio][eio on Github]]

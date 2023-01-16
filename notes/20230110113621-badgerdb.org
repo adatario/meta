@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       e1921026-9a91-43f3-8056-7cd8c58cd283
+:END:
+#+title: BadgerDB
+
+* External Links
+
+** [[https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf][WiscKey: Separating Keys from Values in SSD-conscious Storage]]

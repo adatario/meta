@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3345aeaa-7f07-4f9c-8a02-749f548cfa9d
+:END:
+#+title: What Are You Waiting For? Use Coroutines for Asynchronous I/O to Hide I/O Latencies and Maximize the Read Bandwidth!
+
+* External Links
+
+** [[https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig][Building a high-performance database buffer pool in Zig using io_uring's new fixed-buffer mode]]
+
+** [[https://db.in.tum.de/~fent/papers/coroutines.pdf][PDF]]
