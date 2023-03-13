@@ -1,8 +1,0 @@
-Host comanche
-     HostName 128.232.124.177
-
-Host bench-gc
-     HostName 145.40.68.161
-
-host tezos-archive-node-01
-     HostName 147.75.84.3

@@ -44,6 +44,8 @@
      ;; "emacs-direnv"
      "emacs-envrc"
 
+     "emacs-yaml-mode"
+
      "emacs-magit"
      "emacs-magit-annex"
      "emacs-git-gutter"
@@ -91,6 +93,8 @@
      "foot"
 
      ;; Git
+     "git-crypt"
+     "git-annex"
      "git"
 
      ;; GPG
@@ -108,7 +112,7 @@
      "ocamlformat"
 
      ;; Browsers
-     "ungoogled-chromium"
+     "ungoogled-chromium-wayland"
      "icecat"
 
      ;; Communication

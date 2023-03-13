@@ -313,6 +313,10 @@
     "eb" 'eval-buffer
     "er" 'eval-region))
 
+;; YAML
+
+(use-package yaml-mode)
+
 ;; PDF
 
 (use-package pdf-tools
